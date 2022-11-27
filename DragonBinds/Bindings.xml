@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="DRAGONBINDS_TOGGLE" Category="ADDONS">
+    DragonBinds.Toggle()
+  </Binding>
+</Bindings>

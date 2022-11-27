@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: |cFF74D06CDragon|rBinds
+## Notes: Changes Binds to enhance dragon riding experience.
+## Version: 1.0.0
+## Author: Gray
+## SavedVariablesPerCharacter: DragonBindsSettings
+
+DragonBinds.lua
