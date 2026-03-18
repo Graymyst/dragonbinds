@@ -7,5 +7,7 @@
 ## X-AI-Generated: content-checked (EU AI Act Art. 50)
 
 Core.lua
-Debug.lua
-Bindings.xml
+Settings.lua
+Overrides.lua
+Detection.lua
+## Debug.lua
