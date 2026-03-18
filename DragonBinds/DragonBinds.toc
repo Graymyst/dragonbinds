@@ -1,8 +1,11 @@
-## Interface: 100002
+## Interface: 120000
 ## Title: |cFF74D06CDragon|rBinds
-## Notes: Changes Binds to enhance dragon riding experience.
-## Version: 1.0.0
+## Notes: Système de vol dynamique assisté par clavier.
+## Version: 1.1.2
 ## Author: Gray
 ## SavedVariablesPerCharacter: DragonBindsSettings
+## X-AI-Generated: content-checked (EU AI Act Art. 50)
 
-DragonBinds.lua
+Core.lua
+Debug.lua
+Bindings.xml
